@@ -55,3 +55,7 @@ for num in range(1,10):
 outro_nome = "Mauricio"
 for num in range(1,10):
     print(f"{outro_nome * num}")
+
+outro_nome = "Mauricio"
+for num in range(1,10):
+    print(f"{outro_nome * num}")
